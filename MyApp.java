@@ -25,8 +25,8 @@ public class MyApp extends Application {
 	public static final String LEE_APK_NAME = "LeeWebShell.apk";
 	public static final String CHECK_UPDATE_ACTION = "com.steven.leewebshell.ACRION.ApkUpdate_dia";
 //	public static final String updateServer = "http://192.168.1.220/san/update_apk.html";
-	public static final String updateServer = "http://www.91yimeng.cn/update/update_apk.html";
-//	public static final String updateServer = "http:192.168.1.71:8081/UpdService.do";
+//	public static final String updateServer = "http://www.91yimeng.cn/update/update_apk.html";
+	public static final String updateServer = "http:192.168.1.71:8081/UpdService.do";
 
 	public static final String baseServer = "http://192.168.1.2:8081/appService.do";
 	public static int version_code;
